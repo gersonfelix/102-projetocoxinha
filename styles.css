@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    }
+h1{
+    color: #00917b;
+        text-align: center;
+    font-weight: bold;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#2b7762;
+}
+
+header img{
+    width: 6vw;
+    margin-right: 10px;
+    padding: 5px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 12pt;
+    margin-left: 15px;
+}
+aside{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text h2, text p{
+    padding: 10px;
+    margin: 20px 10px px 10px;
+    color: #00917b;
+}
+.text p{
+    font-weight: bolder;
+    }
+
+.receita{
+    font-size: 11pt;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 20px;
+    letter-spacing: 1px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
